@@ -1,0 +1,21 @@
+{
+  "appId": "com.cinevantaara.app",
+  "appName": "CineVantaara",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  },
+  "android": {
+    "backgroundColor": "#070709",
+    "allowMixedContent": true
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000,
+      "backgroundColor": "#070709",
+      "showSpinner": false
+    }
+  }
+}
