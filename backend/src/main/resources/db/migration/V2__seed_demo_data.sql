@@ -1,0 +1,2 @@
+-- Flyway Migration V2: Clean Production Baseline
+-- Zero fake dummy data inserted. Ready for verified production creators and opportunities.
